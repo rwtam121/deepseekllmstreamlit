@@ -1,0 +1,15 @@
+# huggingface_hub==0.25.2
+ollama
+langchain 
+chromadb 
+gradio 
+langchain-community
+pymupdf
+pinecone-client
+llama-index 
+llama-index-vector-stores-pinecone
+contexttimer
+langchain-ollama
+sentence-transformers
+llama-index-embeddings-huggingface  
+streamlit
