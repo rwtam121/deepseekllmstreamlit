@@ -6,7 +6,7 @@ import retriever
 import streamlit as st
 import warnings
 warnings.filterwarnings('ignore')
-
+#Test
 def get_response(user_query):
     context = retriever.retrieve_from_pinecone(user_query)[:5]
     print(context)
