@@ -10,6 +10,7 @@ langchain
 chromadb 
 gradio 
 langchain-community
+langchain-pinecone
 pymupdf
 pinecone-client
 llama-index 
