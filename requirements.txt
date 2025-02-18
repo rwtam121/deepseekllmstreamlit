@@ -3,15 +3,15 @@ streamlit
 pandas 
 numpy
 ollama
-langchain==0.0.200
-pinecone-client==2.0.0
+# langchain==0.0.200
+# pinecone-client==2.0.0
 # langchain[pinecone]
-# langchain 
+langchain 
 chromadb 
 gradio 
 langchain-community
 pymupdf
-# pinecone-client
+pinecone-client
 llama-index 
 llama-index-vector-stores-pinecone
 contexttimer
