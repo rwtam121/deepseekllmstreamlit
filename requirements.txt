@@ -5,6 +5,7 @@ numpy
 ollama
 langchain==0.0.200
 pinecone-client==2.0.0
+langchain[pinecone]
 # langchain 
 chromadb 
 gradio 
