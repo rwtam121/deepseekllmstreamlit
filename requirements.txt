@@ -1,4 +1,7 @@
 # huggingface_hub==0.25.2
+streamlit
+pandas 
+numpy
 ollama
 langchain 
 chromadb 
@@ -12,6 +15,3 @@ contexttimer
 langchain-ollama
 sentence-transformers
 llama-index-embeddings-huggingface  
-streamlit
-pandas 
-numpy
