@@ -13,3 +13,5 @@ langchain-ollama
 sentence-transformers
 llama-index-embeddings-huggingface  
 streamlit
+pandas 
+numpy
